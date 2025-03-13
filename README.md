@@ -8,7 +8,7 @@
 - **Data visualization:** Developing skills in creating clear and insightful visualizations to support decision-making.
 
 🎓 **Completed Courses:**  
-- **Yandex Practicum Data Analyst course**, where I gained hands-on experience in data analysis, cleaning, and visualization. I worked with SQL, Python, and tools like Tableau to create analytical solutions.
+- **Yandex Practicum Data Analyst course**, where I gained hands-on experience in data analysis, cleaning, and visualization. I worked with **SQL, Python,** and tools like **Tableau and DataLens** to create analytical solutions.
 
 🔭 **Currently working on:**  
 - **Data analysis projects**, where I apply data cleaning, analysis, and visualization techniques.  
@@ -40,7 +40,7 @@
 - **Визуализация данных:** Развиваю навыки создания четких и понятных визуализаций для принятия обоснованных решений.
 
 🎓 **Пройденные курсы:**  
-- **Курс Яндекс Практикум "Аналитик данных"**, в рамках которого я приобрела практический опыт в анализе данных, очистке и визуализации. Я работала с SQL, Python и использовала инструменты, такие как Tableau, для создания аналитических решений.
+- **Курс Яндекс Практикум "Аналитик данных"**, в рамках которого я приобрела практический опыт в анализе данных, очистке и визуализации. Я работала с **SQL, Python** и использовала инструменты, такие как **Tableau и DataLens**, для создания аналитических решений.
 
 🔭 **Сейчас работаю над:**  
 - **Проектами по анализу данных**, применяя методы очистки, анализа и визуализации данных.  
