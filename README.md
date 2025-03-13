@@ -1,10 +1,5 @@
 ## Hi there, I am Maria Tikhomirova 👋
 
-<!--
-**Mariie-T/Mariie-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here’s the updated version in English, including your completion of the Yandex Practicum course:
-
 🔍 **Looking for a job in data analytics**. I aim to apply my knowledge and skills to solve real business problems using analytical tools and technologies.
 
 🌱 **Currently learning:**  
